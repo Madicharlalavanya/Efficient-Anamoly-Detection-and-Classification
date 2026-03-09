@@ -34,7 +34,9 @@ Attack categories include:
 - Scan
 - MITM ARP Spoofing
 
-Target variable used for classification:
+Download the dataset from Kaggle:
+Available on Kaggle at:
+https://www.kaggle.com/datasets/salmanfaroz/iotid20
 
 
 ---
